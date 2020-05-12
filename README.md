@@ -1,25 +1,27 @@
-# Japanese Internment Registration Cards
+## Enriching and Visualizing Personal Life History using Linked Data <br>(A Case Study on Japanese Internment Registration Cards)
 
-## Stage 1: Data Analysis and Data Cleaning<br>
+### Data Source of the Japanese Internment Registration Cards
+- original_japanese_internment_cards_data.csv
+
+### Stage 1: Data Analysis and Data Cleaning
 - data_cleaning_5_persons.py
 - data_cleaning_all_persons.py
 - clean_japanese_internment_cards.csv
 
-## Stage 2: Data Mapping
+### Stage 2: Data Mapping
 
-
-## Stage 3: Data Linking
+### Stage 3: Data Linking
 - match_japanse_interneringskaarten_hub.csv
 - evaluate_match.py
 - matched_data_cleaning.py
 - clean_match.csv
 
-## Stage 4: Data Merging
+### Stage 4: Data Merging
 - merge_japanse_interneringskaarten_hub.py
 - complete_data.csv
 - evaluate_merging.py
 
-## Stage 5: Data Visualization<br>
+### Stage 5: Data Visualization
 The code of the entire website can be found in these files:
 - index.php
 - japanese_internment_cards.php
