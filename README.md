@@ -5,6 +5,7 @@
 
 ### Stage 1: Data Analysis and Data Cleaning
 - data_cleaning_5_persons.py
+- clean_5_persons.csv
 - data_cleaning_all_persons.py
 - clean_japanese_internment_cards.csv
 
