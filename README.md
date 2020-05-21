@@ -1,7 +1,7 @@
 ## Enriching and Visualizing Personal Life History using Linked Data <br>(A Case Study on Japanese Internment Registration Cards)
 
 ### Data Source of the Japanese Internment Registration Cards
-- original_japanese_internment_cards_data.csv
+- NT00425_Japanse_interneringskaarten.csv
 
 ### Stage 1: Data Analysis and Data Cleaning
 - data_cleaning_5_persons.py
