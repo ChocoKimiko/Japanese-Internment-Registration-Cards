@@ -12,7 +12,7 @@ import datetime
 import jaconv
 
 # read the csv file
-reader = codecs.open("original_japanese_internment_cards_data.csv", "r", "utf-8")
+reader = codecs.open("NT00425_Japanse_interneringskaarten.csv", "r", "utf-8")
 
 card_list = []
 # structure the content and put all values in card_list
